@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-neopixel-t-watch",
+  "title": "neopixel-t-watch",
+  "keywords": "neopixel-t-watch, esp32, esp8266, arduino",
+  "description": "neopixel-t-watch plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-neopixel-t-watch/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-neopixel-t-watch/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
